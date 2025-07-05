@@ -10,17 +10,14 @@ This project is based on the BCG X virtual job simulation via Forage. It focuses
 
 ## 📁 Project Structure
 bcg-data-science-simulation/
-├── 1_data_cleaning.py # Clean and prepare data
-├── 2_eda_visualizations.py # Explore and visualize key metrics
-├── 3_model_building.py # Train churn prediction models
-├── 4_model_evaluation.py # Evaluate performance and tune models
-├── executive_summary.pdf # Final presentation of findings
-├── requirements.txt # List of packages used
-└── README.md # Project documentation
+├── EDA.py # Exploratory Data Analysis
+├── Feature_Engineering # Feature Engineering
+├── Modeling.py # Train churn prediction models
+└── Executive_Summary.pdf # Presentable findings 
 
 
 ## Summary
 Key findings included non-price-related churn drivers. Built models to predict customer churn and delivered insights through an executive slide deck.
 
 ## Executive Summary
-[Download the PDF](./executive_summary.pdf)
+[Download the PDF](./Executive_Summary.pdf)

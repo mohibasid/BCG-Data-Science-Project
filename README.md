@@ -12,8 +12,11 @@ This project is based on the BCG X virtual job simulation via Forage. It focuses
 bcg-data-science-simulation/
 
 ├── EDA.py # Exploratory Data Analysis
+
 ├── Feature_Engineering # Feature Engineering
+
 ├── Modeling.py # Train churn prediction models
+
 └── Executive_Summary.pdf # Presentable findings 
 
 

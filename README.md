@@ -8,7 +8,7 @@ This project is based on the BCG X virtual job simulation via Forage. It focuses
 - Google Colab
 - PowerPoint (for executive summary)
 
-## 📁 Project Structure
+## Project Structure
 bcg-data-science-simulation/
 ├── EDA.py # Exploratory Data Analysis
 ├── Feature_Engineering # Feature Engineering
